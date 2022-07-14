@@ -1,6 +1,7 @@
 # Student-Class
 ### Classes and objects
 #### Instructions
+<br>
 1) Download the Starter Project here. You can follow the steps outlined in the guidelines.
 <br>
 2) Open “main.py”. You’ll find the skeleton of the class Student. Student class should have the following attributes:
