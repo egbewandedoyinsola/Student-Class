@@ -1,8 +1,9 @@
 # Student-Class
 ### Classes and objects
-1.  Download the Starter Project here. You can follow the steps outlined in the guidelines.
+#### Instructions
+1) Download the Starter Project here. You can follow the steps outlined in the guidelines.
 <br>
-2.  Open “main.py”. You’ll find the skeleton of the class Student. Student class should have the following attributes:
+2) Open “main.py”. You’ll find the skeleton of the class Student. Student class should have the following attributes:
 <br>
  Name: A string, should be initialized when creating an instance of Student
  <br>
@@ -12,7 +13,7 @@
 <br>
  Score: A float, should be initialized when creating an instance of Student.    
  <br>
-3.  Create the following methods for class “Student”:
+3) Create the following methods for class “Student”:
 <br>
 
  change_name: Change students name, should accept a new name as an argument.
@@ -22,3 +23,5 @@
  Add_track: Add a new item to students tracks, should accept a new track as an argument.
 <br>
  get_score: Return student’s score.
+#### Output
+My output can be found in student_class.py
